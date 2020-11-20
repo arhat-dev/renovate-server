@@ -32,7 +32,7 @@ replace (
 )
 
 require (
-	arhat.dev/pkg v0.0.0-20201011023427-3d85bac95f31
+	arhat.dev/pkg v0.4.4
 	github.com/google/go-github/v32 v32.1.0
 	github.com/hashicorp/go-retryablehttp v0.6.7 // indirect
 	github.com/robfig/cron/v3 v3.0.1
